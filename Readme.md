@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Learning Neog camp
 
 Hello,
 I am Priya Kothalkar, student of computer science studying in 3rd year.
